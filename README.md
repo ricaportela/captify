@@ -2,6 +2,11 @@
 
 
 #### Install
+On Ubuntu
+sudo apt-get install tesseract-ocr
+sudo apt-get install tesseract-ocr-eng
+
+#### Create virtualenv (.venv)
 pip install -r requirements.txt
 
 #### How it work
