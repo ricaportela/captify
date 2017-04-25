@@ -2,7 +2,7 @@
 
 
 #### Install
-pip install -R requirements.txt
+pip install -r requirements.txt
 
 #### How it work
 python run.py img/captcha.png
